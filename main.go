@@ -52,13 +52,13 @@ func main() {
 		log.Fatalf("Error creating metrics client: %v", err)
 	}
 
-	// Infinite loop with 5-minute intervals
+	// Infinite loop with 1-minute intervals
 	for {
 		err := scrapeAndSave(clientset, metricsClient)
 		if err != nil {
 			log.Printf("Error during scrape: %v", err)
 		}
-		time.Sleep(5 * time.Minute)
+		time.Sleep(1 * time.Minute)
 	}
 }
 
