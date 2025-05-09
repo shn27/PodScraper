@@ -1,0 +1,117 @@
+Time: 2025-05-07 11:56:00
+Data:
+
+===============================================Pod Metrics Maximum CPU Usage===================================
+Pod Name: ace/ace-db-1/postgres Maximum CPU usage: 1
+Pod Name: ace/ace-db-2/postgres Maximum CPU usage: 1
+Pod Name: ace/ace-db-2/pg-coordinator Maximum CPU usage: 1
+Pod Name: ace/ace-db-sidekick/wal-g Maximum CPU usage: 1
+Pod Name: ace/ace-db-0/exporter Maximum CPU usage: 0
+Pod Name: ace/ace-db-2/exporter Maximum CPU usage: 1
+Pod Name: monitoring/inbox-agent-operator-79cf876dfd-bstgw/operator Maximum CPU usage: 1
+Pod Name: monitoring/inbox-agent-webhook-server-7fb55cbb89-fmt4f/kube-rbac-proxy Maximum CPU usage: 1
+Pod Name: ace/ace-db-0/postgres Maximum CPU usage: 1
+Pod Name: ace/ace-db-1/exporter Maximum CPU usage: 1
+Pod Name: ace/ace-db-1/pg-coordinator Maximum CPU usage: 1
+Pod Name: monitoring/inbox-agent-webhook-server-7fb55cbb89-fmt4f/webhook-server Maximum CPU usage: 1
+Pod Name: ace/inbox-server-jmap-7df8b5f7dd-6ngcb/james-jmap Maximum CPU usage: 1
+Pod Name: ace/inbox-ui-b59b4978f-xsm7x/inbox-ui Maximum CPU usage: 1
+Pod Name: ace/ace-db-0/pg-coordinator Maximum CPU usage: 1
+
+===============================================Pod Metrics Maximum Memory Usage===================================
+Pod Name: ace/ace-db-0/pg-coordinator Maximum Memory usage: 65 Mi
+Pod Name: ace/ace-db-0/postgres Maximum Memory usage: 116 Mi
+Pod Name: ace/ace-db-2/postgres Maximum Memory usage: 2 Mi
+Pod Name: ace/ace-db-2/exporter Maximum Memory usage: 13 Mi
+Pod Name: ace/ace-db-1/postgres Maximum Memory usage: 2 Mi
+Pod Name: monitoring/inbox-agent-operator-79cf876dfd-bstgw/operator Maximum Memory usage: 18 Mi
+Pod Name: ace/ace-db-0/exporter Maximum Memory usage: 12 Mi
+Pod Name: ace/ace-db-1/exporter Maximum Memory usage: 13 Mi
+Pod Name: ace/ace-db-1/pg-coordinator Maximum Memory usage: 59 Mi
+Pod Name: ace/inbox-ui-b59b4978f-xsm7x/inbox-ui Maximum Memory usage: 19 Mi
+Pod Name: ace/ace-db-2/pg-coordinator Maximum Memory usage: 59 Mi
+Pod Name: ace/ace-db-sidekick/wal-g Maximum Memory usage: 20 Mi
+Pod Name: ace/inbox-server-jmap-7df8b5f7dd-6ngcb/james-jmap Maximum Memory usage: 2579 Mi
+Pod Name: monitoring/inbox-agent-webhook-server-7fb55cbb89-fmt4f/webhook-server Maximum Memory usage: 26 Mi
+Pod Name: monitoring/inbox-agent-webhook-server-7fb55cbb89-fmt4f/kube-rbac-proxy Maximum Memory usage: 39 Mi
+
+===============================================Node Metrics Data======================================
+Node: sohan-james-postgres-load-testing, CPU: 2788382466n, Memory: 25751Mi
+Time: 2025-05-07 12:57:31
+Data:
+
+===============================================Pod Metrics Maximum CPU Usage===================================
+Pod Name: ace/ace-db-0/pg-coordinator Maximum CPU usage: 1
+Pod Name: ace/ace-db-2/postgres Maximum CPU usage: 1
+Pod Name: monitoring/inbox-agent-webhook-server-7fb55cbb89-fmt4f/webhook-server Maximum CPU usage: 1
+Pod Name: ace/ace-db-0/exporter Maximum CPU usage: 1
+Pod Name: ace/ace-db-1/pg-coordinator Maximum CPU usage: 1
+Pod Name: ace/ace-db-2/exporter Maximum CPU usage: 1
+Pod Name: ace/ace-db-1/exporter Maximum CPU usage: 0
+Pod Name: ace/ace-db-2/pg-coordinator Maximum CPU usage: 1
+Pod Name: ace/inbox-ui-b59b4978f-xsm7x/inbox-ui Maximum CPU usage: 1
+Pod Name: monitoring/inbox-agent-operator-79cf876dfd-bstgw/operator Maximum CPU usage: 1
+Pod Name: monitoring/inbox-agent-webhook-server-7fb55cbb89-fmt4f/kube-rbac-proxy Maximum CPU usage: 1
+Pod Name: ace/ace-db-0/postgres Maximum CPU usage: 1
+Pod Name: ace/ace-db-1/postgres Maximum CPU usage: 1
+Pod Name: ace/ace-db-sidekick/wal-g Maximum CPU usage: 1
+Pod Name: ace/inbox-server-jmap-7df8b5f7dd-6ngcb/james-jmap Maximum CPU usage: 1
+
+===============================================Pod Metrics Maximum Memory Usage===================================
+Pod Name: ace/inbox-ui-b59b4978f-xsm7x/inbox-ui Maximum Memory usage: 19 Mi
+Pod Name: ace/ace-db-0/pg-coordinator Maximum Memory usage: 63 Mi
+Pod Name: ace/ace-db-sidekick/wal-g Maximum Memory usage: 21 Mi
+Pod Name: monitoring/inbox-agent-webhook-server-7fb55cbb89-fmt4f/webhook-server Maximum Memory usage: 26 Mi
+Pod Name: ace/ace-db-1/exporter Maximum Memory usage: 13 Mi
+Pod Name: ace/ace-db-2/exporter Maximum Memory usage: 13 Mi
+Pod Name: ace/ace-db-2/pg-coordinator Maximum Memory usage: 60 Mi
+Pod Name: monitoring/inbox-agent-operator-79cf876dfd-bstgw/operator Maximum Memory usage: 21 Mi
+Pod Name: ace/ace-db-0/postgres Maximum Memory usage: 119 Mi
+Pod Name: ace/ace-db-1/pg-coordinator Maximum Memory usage: 61 Mi
+Pod Name: ace/ace-db-1/postgres Maximum Memory usage: 1 Mi
+Pod Name: monitoring/inbox-agent-webhook-server-7fb55cbb89-fmt4f/kube-rbac-proxy Maximum Memory usage: 39 Mi
+Pod Name: ace/ace-db-0/exporter Maximum Memory usage: 12 Mi
+Pod Name: ace/ace-db-2/postgres Maximum Memory usage: 1 Mi
+Pod Name: ace/inbox-server-jmap-7df8b5f7dd-6ngcb/james-jmap Maximum Memory usage: 2622 Mi
+
+===============================================Node Metrics Data======================================
+Node: sohan-james-postgres-load-testing, CPU: 1058962834n, Memory: 25581Mi
+Time: 2025-05-07 13:37:25
+Data:
+
+===============================================Pod Metrics Maximum CPU Usage===================================
+Pod Name: ace/ace-db-0/postgres Maximum CPU usage: 1
+Pod Name: ace/ace-db-1/postgres Maximum CPU usage: 1
+Pod Name: ace/ace-db-1/exporter Maximum CPU usage: 0
+Pod Name: ace/ace-db-2/postgres Maximum CPU usage: 1
+Pod Name: ace/ace-db-2/exporter Maximum CPU usage: 0
+Pod Name: ace/inbox-server-jmap-7df8b5f7dd-6ngcb/james-jmap Maximum CPU usage: 1
+Pod Name: ace/ace-db-1/pg-coordinator Maximum CPU usage: 1
+Pod Name: ace/ace-db-2/pg-coordinator Maximum CPU usage: 1
+Pod Name: ace/inbox-ui-b59b4978f-xsm7x/inbox-ui Maximum CPU usage: 1
+Pod Name: monitoring/inbox-agent-operator-79cf876dfd-bstgw/operator Maximum CPU usage: 1
+Pod Name: ace/ace-db-0/exporter Maximum CPU usage: 1
+Pod Name: ace/ace-db-0/pg-coordinator Maximum CPU usage: 1
+Pod Name: ace/ace-db-sidekick/wal-g Maximum CPU usage: 1
+Pod Name: monitoring/inbox-agent-webhook-server-7fb55cbb89-fmt4f/kube-rbac-proxy Maximum CPU usage: 1
+Pod Name: monitoring/inbox-agent-webhook-server-7fb55cbb89-fmt4f/webhook-server Maximum CPU usage: 1
+
+===============================================Pod Metrics Maximum Memory Usage===================================
+Pod Name: ace/ace-db-0/exporter Maximum Memory usage: 12 Mi
+Pod Name: ace/ace-db-1/pg-coordinator Maximum Memory usage: 63 Mi
+Pod Name: ace/ace-db-2/postgres Maximum Memory usage: 64 Mi
+Pod Name: ace/ace-db-sidekick/wal-g Maximum Memory usage: 19 Mi
+Pod Name: ace/inbox-server-jmap-7df8b5f7dd-6ngcb/james-jmap Maximum Memory usage: 2641 Mi
+Pod Name: monitoring/inbox-agent-webhook-server-7fb55cbb89-fmt4f/kube-rbac-proxy Maximum Memory usage: 39 Mi
+Pod Name: monitoring/inbox-agent-operator-79cf876dfd-bstgw/operator Maximum Memory usage: 20 Mi
+Pod Name: ace/ace-db-1/postgres Maximum Memory usage: 67 Mi
+Pod Name: ace/ace-db-1/exporter Maximum Memory usage: 12 Mi
+Pod Name: ace/ace-db-2/exporter Maximum Memory usage: 12 Mi
+Pod Name: ace/ace-db-2/pg-coordinator Maximum Memory usage: 61 Mi
+Pod Name: ace/inbox-ui-b59b4978f-xsm7x/inbox-ui Maximum Memory usage: 19 Mi
+Pod Name: ace/ace-db-0/postgres Maximum Memory usage: 114 Mi
+Pod Name: ace/ace-db-0/pg-coordinator Maximum Memory usage: 64 Mi
+Pod Name: monitoring/inbox-agent-webhook-server-7fb55cbb89-fmt4f/webhook-server Maximum Memory usage: 26 Mi
+
+===============================================Node Metrics Data======================================
+Node: sohan-james-postgres-load-testing, CPU: 2028852564n, Memory: 25432Mi
